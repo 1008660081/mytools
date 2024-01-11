@@ -1,0 +1,1113 @@
+*.financialforce.com
+*.certinia.com
+https://bc1-noiap-ae.staging.lb.open.platforum.cloud/
+NO_IN_SCOPE_TABLE
+www.australiansuper.com
+portal.australiansuper.com
+business.australiansuper.com
+adviser.australiansuper.com
+apis.australiansuper.com
+NO_IN_SCOPE_TABLE
+NO_IN_SCOPE_TABLE
+*.humansecurity.com
+*.whiteops.com
+*.perimeterx.com
+NO_IN_SCOPE_TABLE
+https://marketplace.atlassian.com/apps/1226389/rewind-backups-for-jira-cloud?hosting=cloud
+https://marketplace.atlassian.com/apps/1228099/rewind-backups-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1228755/rewind-backups-for-bitbucket?hosting=cloud
+online.taxslayerpro.com/*
+www.taxslayer.com/2017
+www.taxslayer.com/2018
+www.taxslayer.com/2019
+www.taxslayer.com/2020
+www.taxslayer.com/2021
+www.taxslayer.com/myaccount
+prodemo.cloudtaxoffice.com/*
+Taxes To Go - Android App
+Taxes To Go - iOS App
+TaxSlayer Free Tax App - Android
+TaxSlayer Free Tax App - iOS
+Any authenticated functionality on TaxSlayer.com
+www.taxslayer.com/connect/api/*
+api-pro.cloudtaxoffice.com
+services.taxslayerpro.com/proapi
+https://seatgeek.com/
+https://api.seatgeek.com/
+SeatGeek Test Event
+https://kmart.com.au
+Kmart Mobile Application - Android
+Kmart Mobile Application - iOS
+https://target.com.au
+Target Mobile App -  Android
+Target Mobile App - iOS
+*.transparentadvertising.org
+*.transparentadvertising.eu
+*.uidapi.com
+*.euid.eu
+Agents (Stage) - Login
+Agents (Stage)- General API - *.public.lmndstaging.com/*
+Account Management
+Login
+Lemonade.com
+Files Service
+Life
+https://lemonade.com/car
+iOS Mobile
+Android
+https://www.lemonade.com/blog/ - Lemonade Blog
+http://www.lenovo.com
+https://account.lenovo.com
+https://passport.lenovo.com
+https://ovp.lenovo.com
+https://support.lenovo.com
+http://www.motorola.com
+https://motorola-global-portal.custhelp.com
+https://news.lenovo.com
+http://lenovopartnerhub.com/
+https://techtoday.lenovo.com/
+https://testforums.lenovo.com/
+openapi.lenovo.com
+https://motorolanews.com/
+uatcommercial.lenovo.com
+*.support.motorola.com
+*.digicert.com
+https://sec-tst-workspaces.pexalabs.com.au/
+bc.yieldstreet.net
+betterhelp.com
+betterhelp.com.au
+pridecounseling.com
+icounseling.com
+betterhelpteens.com
+mytherapist.com
+teencounseling.com
+terappeuta.com
+faithfulcounseling.com
+counseling4students.com
+counselingforstudents.com
+regain.com
+regain.us
+BetterHelp Mobile Applications (iOS)
+BetterHelp Mobile Applications (Android)
+13.52.170.51
+13.52.52.137
+betterhelp.co.il
+betterhelporg.com
+NO_IN_SCOPE_TABLE
+https://www.bhphotovideo.com/
+https://payment.bhphotovideo.com/
+Announcer For Confluence 	- 	https://marketplace.atlassian.com/apps/1211907/announcer-for-confluence?hosting=cloud&tab=overview
+Announcer For Jira	- 	https://marketplace.atlassian.com/apps/1211928/announcer-for-jira?hosting=cloud&tab=overview
+Configuration  Manager  For  Jira  Cmj	- 	https://marketplace.atlassian.com/apps/1211611/configuration-manager-for-jira-cmj?hosting=cloud&tab=overview
+Issue  Matrix	- 	https://marketplace.atlassian.com/apps/1212709/issue-matrix-for-jira?hosting=cloud&tab=overview
+Delegated Project Creator - https://marketplace.atlassian.com/apps/1211157/delegated-project-creator-for-jira?hosting=cloud
+Agile  Cards  Print  Issues  From  Jira	- 	https://marketplace.atlassian.com/apps/9601/agile-cards-print-issues-from-jira?hosting=cloud&tab=overview
+Agile Cards Print Issues From Jira - https://agilecards-ondemand.spartez.com/*
+Agile  Poker  For  Jira  Planning  Estimation	- 	https://marketplace.atlassian.com/apps/700473/agile-poker-for-jira-planning-estimation?hosting=cloud&tab=overview
+Agile Poker For Jira Planning Estimation - agile-poker-production.herokuapp.com/*
+Planning  Poker	- 	https://marketplace.atlassian.com/apps/1212495/planning-poker?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1218137/roll-up-reports-for-jira?hosting=cloud&tab=overview
+OKR for Jira -	https://marketplace.atlassian.com/apps/1221776/okr-for-jira?hosting=cloud&tab=overview
+Roll-Up Reports for Jira	https://marketplace.atlassian.com/apps/1218137/roll-up-reports-for-jira?hosting=cloud&tab=overview
+Suri: Portfolio RAG Project Status Dashboard & Roadmaps - https://marketplace.atlassian.com/apps/1226870/suri-portfolio-rag-project-status-dashboard-roadmap?hosting=cloud&tab=overview
+Hedge: Risk Management, Risk Register & Risk Matrix for Jira - https://marketplace.atlassian.com/apps/1227408/hedge-risk-management-risk-register-risk-matrix-for-jira?hosting=cloud&tab=overview
+Swanly: Portfolio Roadmaps Structure Gantt, Release Timeline - https://marketplace.atlassian.com/apps/1219470/swanly-portfolio-roadmaps-structure-gantt-release-timeline?hosting=cloud&tab=overview
+Foxly: Requirements Backlog Prioritization, Planning Poker - https://marketplace.atlassian.com/apps/1222824/foxly-requirements-backlog-prioritization-planning-poker?hosting=cloud&tab=overview
+Octo - Component version, Subcomponents and Sync for Jira - https://marketplace.atlassian.com/apps/1221419/octo-component-version-subcomponents-and-sync-for-jira?hosting=cloud&tab=overview
+Agile Retrospectives - https://marketplace.atlassian.com/apps/1215271/agile-retrospectives?hosting=cloud&tab=overview
+Issue Events: Google Calendar integration for Jira - https://marketplace.atlassian.com/apps/1220822/issue-events-google-calendar-integration-for-jira?hosting=cloud&tab=overview
+Toggl Integration for Jira - https://marketplace.atlassian.com/apps/1215495/toggl-integration-for-jira?hosting=cloud&tab=overview
+Panorama hierarchy & structure for Jira - https://marketplace.atlassian.com/apps/1219417/panorama-hierarchy-structure-for-jira?hosting=cloud&tab=overview
+Android_Tenant_Deserve_0.20.7.apk
+https://sandbox-bff-pnc.deserve.com
+https://sandbox-platform.deserve.com
+https://stage.deserve.com/
+Deserve_SND
+Single-Page App (demo.ramp.com)
+API (demo-api.ramp.com)
+Developer API (demo-api.ramp.com/developer)
+Android App
+iOS App
+Git Integration for Jira - Cloud Hosted - https://marketplace.atlassian.com/apps/4984/git-integration-for-jira?hosting=cloud&tab=overview
+Git Integration for Jira - Server Hosted - https://marketplace.atlassian.com/apps/4984/git-integration-for-jira?hosting=server&tab=overview
+Git Integration for Jira - Data Center Hosted - https://marketplace.atlassian.com/apps/4984/git-integration-for-jira?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/1219270/dev-info-for-jira?hosting=cloud&tab=overview
+CI/CD For Jira - https://marketplace.atlassian.com/apps/1228578/ci-cd-for-jira?hosting=cloud&tab=overview
+Team Insights for Jira (Preview) - https://marketplace.atlassian.com/apps/1230390/team-insights-for-jira-preview?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1210786/multivote-enterprise-survey-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/575163/bar-charts-for-jira?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/627659/custom-content-for-jira?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/575829/workflow-enhancer-for-jira?tab=overview&hosting=cloud
+Epic Clone App - https://marketplace.atlassian.com/apps/1222030/epic-clone?tab=overview&hosting=cloud
+Duplicate Epic App - https://marketplace.atlassian.com/apps/1220519/duplicate-epic?tab=overview&hosting=cloud
+Project Milestones App - https://marketplace.atlassian.com/apps/1229422/project-milestones-for-jira?tab=overview&hosting=cloud
+www.teramind.co
+Teramind Internal Tooling Website
+<your-teramind-trial-instance>.teramind.co
+Teramind Cloud Network Assets
+democompany.teramind.co
+Teramind Windows Agent - Hidden
+Teramind Windows Agent - Revealed
+Teramind Mac Agent - Hidden
+Teramind Mac Agent - Revealed
+https://www.rudderstack.com/
+app.rudderstack.com
+Data Plane URL (This will be unique to your user account)
+All Paysafe Applications
+NO_IN_SCOPE_TABLE
+https://staging.sleuth.io
+Matillion Data Productivity Cloud (DPC)
+https://bugcrowd.project-explorer.matillion.com/
+https://bugcrowd.start.matillion.com/
+https://bugcrowd.designer.matillion.com/
+https://bugcrowd.agentmanager.matillion.com
+https://bugcrowd.*.matillion.com/
+https://ec2-54-77-182-34.eu-west-1.compute.amazonaws.com
+https://api.metl-gateway.eu1.platform-preprod.matillion.com
+https://api.workflow.eu1.platform-preprod.matillion.com
+https://api.observer.eu1.platform-preprod.matillion.com
+https://api.agent-gateway.eu1.platform-preprod.matillion.com
+https://api.agent-manager.eu1.core-preprod.matillion.com
+https://api.saas-scheduler.core-preprod.matillion.com
+https://agentmanager-preprod.matillion.com/
+https://scheduler-preprod.matillion.com/
+https://preprod-dataloader.matillion.com/
+https://hub-preprod.matillion.com/
+https://billing-preprod.matillion.com/
+https://marketplace.atlassian.com/apps/1227025/in-app-customer-portal-notifications-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1228705/insight-assets-backup?hosting=cloud
+https://marketplace.atlassian.com/apps/1230734/user-activity-audit-log?tab=overview&hosting=cloud
+Glossary App - https://marketplace.atlassian.com/apps/1211800/glossary?hosting=cloud
+Spectrum Formatting Macros - https://marketplace.atlassian.com/apps/1212124/spectrum-formatting-macros?hosting=cloud
+Ideation - https://marketplace.atlassian.com/apps/1211894/ideation?hosting=cloud&tab=overview
+FAQ for Confluence - https://marketplace.atlassian.com/apps/1211855/faq-for-confluence?hosting=cloud&tab=overview
+https://kw-bugcrowd-main.bounty.kiteworks.dev/admin
+https://kw-bc-mt.bounty.kiteworks.dev/admin
+https://kw-bc-mt-1001.bounty.kiteworks.dev/admin
+https://kw-bc-mt-1002.bounty.kiteworks.dev/admin
+Kiteworks iOS App
+Kiteworks Android App (Via HockeyApp)
+https://epg-bugcrowd-main.bounty.kiteworks.dev/mailadmin
+https://mft-bugcrowd-main.bounty.kiteworks.dev:8080
+drive.matlab.com
+https://integ-matlab.mathworks.com/ [MATLAB ONLINE]
+mathworks.com
+https://thingspeak.com/
+http://api.thingspeak.com/
+https://blogs.mathworks.com/bugbountytest/
+https://marketplace.atlassian.com/apps/1214613/multiple-filters-chart-gadget?hosting=cloud
+https://marketplace.atlassian.com/apps/1211976/gauge-gadget?hosting=cloud
+https://marketplace.atlassian.com/apps/1211314/three-dimensional-date-gadgets?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1225375/site-statistics-for-jira-cloud?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1223780/tissue-table-of-linked-issues?hosting=cloud
+https://marketplace.atlassian.com/apps/1229447/site-statistics-for-confluence-cloud?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/1211116/countdown-timer?tab=overview&hosting=cloud
+Staging 1 - https://staging.sigmacomputing.io/bug-crowd-aws-staging/login
+Staging 2 - https://staging.sigmacomputing.io/bug-crowd-aws-staging-22/login
+Api.sigmacomputing.com
+Aws-api.sigmacomputing.com
+iOS App
+com.myfitnesspal.android
+*.myfitnesspal.com
+The Fork Android App
+The Fork iOS App
+https://bugcrowd.commonlit.org
+NO_IN_SCOPE_TABLE
+https://mts-console-staging.betradar.com/
+https://bbp.ads-dev.sportradar.com/
+https://sonicdx.com.au
+Sonic Healthcare iOS app
+https://api.outreach-staging.com/
+https://staging1a.outreach-staging.com/
+Outreach Chrome Extension and Outlook Plugin
+https://user-docs.outreach-staging.com/
+app.sproutsocial.com
+api.sproutsocial.com
+share.sproutsocial.com
+sprout.link
+app.clearscore.com
+drivescore.com
+clearscore.com
+auth.clearscore.com
+webviews.drivescore.com
+app.drivescore.com
+ClearScore Android App
+DriveScore Android App
+ClearScore iOs App
+DriveScore iOs App
+www.vsin.com
+VSiN Android App
+VSiN iOS App
+GoFundMe
+API
+Funds
+Native Gateway
+Images
+happiness.gofundme.com
+https://api.ecommpay.com - Gate (Payment API)
+https://paymentpage.ecommpay.com - Payment Page
+https://sdk.ecommpay.com - Payment Page for Mobile App
+https://dashboard.ecommpay.com  - Dashboard
+https://data.ecommpay.com - API for Dashboard
+www.ecommpay.com - Main Website
+Software Development Kits for PaymentPage
+PaymentPage plugins for content management system
+dashboard.branch.io
+api2.branch.io
+api2-eu.branch.io
+api3.branch.io
+api3-eu.branch.io
+api-safetrack.branch.io
+api-safetrack-eu.branch.io
+vulcan.branch.io/v1/search
+*.branch.io
+https://github.com/BranchMetrics/*
+account.postmarkapp.com
+https://api.postmarkapp.com/
+https://login.us.jupiterone.io
+https://apps.us.jupiterone.io
+https://api.us.jupiterone.io
+https://graphql.us.jupiterone.io
+rql.reverb.com
+https://sandbox.reverb.com
+https://sandbox.rql.reverb.com
+Truecar IoS (https://apps.apple.com/us/app/truecar-the-car-buying-app/id624714390)
+Truecar Android (https://play.google.com/store/apps/details?id=com.truecar.mobile.android.consumer&hl=en_US)
+https://macys.staging.truecardev.com/
+https://www.staging.truecardev.com/#/
+Dealer Portal
+https://withpersona.com
+https://app.withpersona.com
+https://files.withpersona.com
+https://inquiry.withpersona.com
+https://pt-bugbnty-my.tealiumiq.com/
+https://pt-bugbnty-my.tealiumiq.com/urest/application.wadl?utk=*
+https://pt-bugbnty-visitor-service-us-east-1.tealiumiq.com
+https://pt-bugbnty-collect.tealiumiq.com
+WalkMe Web Application
+cdn.walkmeqa.com
+playerserver.walkmeqa.com
+ec.walkmeqa.com
+editor.walkmeqa.com
+analytics.walkmeqa.com
+insights.walkmeqa.com
+api.walkmeqa.com
+accounts.walkmeqa.com
+editorsite.walkmeqa.com
+account.walkmeqa.com
+rapi.walkmeqa.com
+papi.walkmeqa.com
+insights2.walkmeqa.com
+admin.walkmeqa.com
+portal.walkmeqa.com
+ec-playback.walkmeqa.com
+auth.walkmeqa.com
+console.walkmeqa.com
+insights-cdn.walkmeqa.com
+insights-reports.walkmeqa.com
+share.walkmeqa.com
+communication-center.walkmeqa.com
+menuorganizer.walkmeqa.com
+logs.walkmeqa.com
+*.walkme.com
+http://stage.goshd.com/
+http://stage.goshd.ca/
+poshmark.com
+https://auth.cdbaby.com
+https://members.cdbaby.com
+https://api.cdbaby.com
+https://downloads.cdbaby.com/
+https://reseller.cdbaby.com/
+https://cdbaby.com/
+https://sandbox.soundrop.com
+https://sandbox-api.soundrop.com
+https://soundrop.com/
+SmartNews iOS App
+SmartNews Android App
+*.smartnews.com
+*.smartnews.be
+*.smartnews-ads.com
+*.smartnews.co.jp
+*.smartnews.net
+https://api.smartnews-ads.com/s/web/v1/*
+https://api.smartnews-ads.com/s/web/v2/*
+https://api.smartnews-ads.com/s/app/v1/*
+https://api.smartnews-ads.com/s/app/v2/*
+http://smartnews.be/api/*
+http://smartnews-smri.com/
+*.smartnews-smri.com
+*dev*.smartnews.com
+*dev*.smartnews.be
+*dev*.smartnews.net
+*dev*.smartnews.*
+AvalonCommunities - Stage Environment
+api2.avalonbay.com
+api.avalonbay.com
+avbbuilds.avalonbay.com
+ess.avalonbay.com
+https://avalonaccess.com
+resource.avalonbay.com
+https://new.avaloncommunities.com
+https://apis.avalonbay.com
+app.safetyculture.com
+app.safetyculture.com/api/
+app.safetyculture.com/api2/
+api.safetyculture.io
+sync.safetyculture.io
+analytics.safetyculture.io
+safetyculture.com
+blog.safetyculture.com
+*.safetyculture.io
+*.safetyculture.com
+sheqsy.com
+app.sheqsy.com
+*.edapp.com
+SafetyCulture (iAuditor) iOS
+SafetyCulture (iAuditor) Android
+https://bugcrowd.flybreeze.team
+https://testflight.apple.com/join/eBBLE3Xk
+https://app-dev.aptrinsic.com/
+https://web-sdk.aptrinsic.com/api/aptrinsic.js
+https://www.payerpath.com
+https://appdemo.docusign.com
+https://demo.docusign.net/signing/*
+https://admindemo.docusign.com
+https://account-d.docusign.com
+https://demo.docusign.net/restapi/*
+https://demo.docusign.net/api/3.0/*
+DocuSign for Android
+DocuSign for Microsoft
+Docusign for iOS
+https://uatna11.springcm.com/
+https://apiuatna11.springcm.com/
+https://apiuploaduatna11.springcm.com
+https://apidownloaduatna11.springcm.com
+Manifest Playout Service API
+VOS360 Web UI
+VOS360 RestAPI
+Scheduler 360 Backend
+Scheduler 360 Frontend
+https://www.dream11.com/
+Dream11 iOS Application (Apple Store India)
+Dream11 Android Application (https://www.dream11.com/download-app)
+https://www.fancode.com/
+Fancode iOS Application (Apple Store India)
+Fancode Android Application (Google Play Store India)
+DreamPay
+dashboard.lusha.com - Main Webapp
+plugin.lusha.com
+auth.lusha.com - Authentication & Signup
+lusha.com - Marketing Site
+www.lusha.com - Marketing Site
+api.lusha.com
+dashboard-services.lusha.com
+plugin-services.lusha.com
+billing-api.lusha.com
+*sempra.com
+*.sdge.com
+*.socalgas.com
+*.rc.nextiva.xyz
+https://storage.googleapis.com/nextivawebsites-misc/Nextiva-rc.dmg
+https://storage.googleapis.com/nextivawebsites-misc/Nextiva-rc.exe
+candidate.checkr.com
+apply.checkr.com
+learn.checkr.com
+www.checkr.com
+api.checkr.com
+identity.checkr.com
+List of Unilever domains in scope
+Other Unilever targets
+Release Management & Roadmap -Jira Cloud - https://marketplace.atlassian.com/apps/1221946/release-management-roadmap-jira-cloud?hosting=cloud&tab=overview
+Gadgets for Release Management & Roadmap - Cloud - https://marketplace.atlassian.com/apps/1223487/gadgets-for-release-management-roadmap?hosting=cloud&tab=overview
+Gadgets for Release Management & Roadmap - DC - https://marketplace.atlassian.com/apps/1223487/gadgets-for-release-management-roadmap?hosting=datacenter&tab=overview
+Gadgets for Release Management & Road - Server - https://marketplace.atlassian.com/apps/1223487/gadgets-for-release-management-roadmap?hosting=server&tab=overview
+Advanced Agile Boards - Cloud - https://marketplace.atlassian.com/apps/1223877/advanced-agile-boards?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1222474/work-status-time-tracking-calendar-for-jira?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/1228657/easy-peasy-roadmap-for-jira?hosting=cloud&tab=overview
+https://www.globalgiving.org
+www.globalgiving.org/learn
+api.globalgiving.org
+https://service.ringcentral.com
+https://login.ringcentral.com
+secure.ringcentral.com
+platform.ringcentral.com
+https://api.ringcentral.com
+RingCentral Application for Windows
+RingCentral Application for Mac
+https://v.ringcentral.com
+https://app.ringcentral.com
+gwh.glip.com
+app-gamma.glip.com
+RingCentral Mobile Application for iOS
+RingCentral Mobile Application for Android
+Glip Mobile Application for iOS
+Glip Mobile Application for Android
+developers.ringcentral.com
+platform.devtest.ringcentral.com
+service.devtest.ringcentral.com
+login.devtest.ringcentral.com
+api.devtest.ringcentral.com
+www.ringcentral.com
+https://meetings.ringcentral.com
+https://support.ringcentral.com
+https://partnersupport.ringcentral.com
+https://www.ringcentral.com/us/en/blog/
+https://status.ringcentral.com
+https://notificationsplus.ps.ringcentral.com
+https://ivrorchestrator.ps.ringcentral.com
+*.command.verkada.com
+api.verkada.com
+*.pyramid.verkada.com
+account.storytel.com
+api.storytel.net
+www.storytel.com
+storytel.com
+Storytel Mobile App - Android
+Storytel Mobile App - iOS
+publishers.storytel.com
+audiobooks.com mobile apps
+audiobook.com mobile apps
+*.audiobooks.com
+desk.thetradedesk.com
+www.thetradedesk.com
+api.thetradedesk.com
+dev.thetradedesk.com
+qa.thetradedesk.com
+auth.thetradedesk.com
+atlassian.thetradedesk.com
+js.adsrvr.org
+www.adsrvr.org
+tableau.thetradedesk.com
+ops-sso.adsrvr.org
+apisb.thetradedesk.com
+bb-data.adsrvr.org
+bb-bid.adsrvr.org
+subscribe.washingtonpost.com
+www.washingtonpost.com
+account.washingtonpost.com
+id.washingtonpost.com
+js.washingtonpost.com
+api.washingtonpost.com
+m.washingtonpost.com
+img.washingtonpost.com
+img2.washingtonpost.com
+img3.washingtonpost.com
+css.washingtonpost.com
+subservices.washingtonpost.com
+login.washingtonpost.com
+Washington Post iOS App
+Washington Post Select iOS App
+Washington Post Android App
+Washington Post Select Android App
+https://*.washingtonpost.com/
+Vonage AI Studio https://studio.ai.vonage.com/
+Account API https://rest.nexmo.com/account/*
+Account API https://api.nexmo.com/account/*
+Messages API https://api.nexmo.com/v1/messages*
+SMS https://rest.nexmo.com/sms/*
+Voice https://api.nexmo.com/v1/calls/*
+Vonage Meetings https://meetings.vonage.com
+gUnify https://extensions.gunify.vonage.com/
+Conversation API - https://api.nexmo.com/v0.1/conversations
+Application API - https://api.nexmo.com/v2/applications
+Dispatch API - https://api.nexmo.com/v0.1/dispatch
+Audit API https://api.nexmo.com/beta/audit/events*
+Management APIs https://api.nexmo.com/conversions/sms
+Management APIs https://api.nexmo.com/v2/reports/records
+Management APIs https://api.nexmo.com/v1/redact/transaction
+Management APIs https://api.nexmo.com/v3/media
+Management APIs https://rest.nexmo.com/account/get-pricing/outbound/
+Numbers API https://rest.nexmo.com/account/numbers*
+Verify https://api.nexmo.com/verify/
+Customer Dashboard https://dashboard.nexmo.com/
+Etrieve STS
+Etrieve Security
+Etrieve Central
+Etrieve Content
+Etrieve Content API
+*.boostpower.co.uk
+*.corgihomeheat.co.uk
+*.corgihomeplan.co.uk
+*.corgihomeplan.uk
+*.gridsvc.net
+*.kaluza.com
+*.kaluza.technology
+*.ovo.com
+*.ovoenergy.com
+*.ovotech.org.uk
+*.kaluzaplatform.net
+app.pitch.com
+login.pitch.com
+auth.pitch.com
+document-sync-4-prod.api.pitch.com
+browserless-4-prod.api.pitch.com
+Desktop Application
+iOS App
+Android App
+*.pitch.com
+*.pitch.io
+Bolt Food (Android)
+Bolt Food (iOS)
+Bolt Rider (Android)
+Bolt Rider (iOS)
+*.bolt.eu
+*.taxify.eu
+Partypoker Website (and all its subdomains)
+Partycasino Website (and all its subdomains)
+Bwin Website (and all its subdomains)
+Partypoker iOS
+Partycasino iOS
+Bwin Sports iOS
+Bwin Poker-Casino iOS
+Partycasino APK
+Gala Casino Website (and all its subdomains)
+Ladbrokes Digital  (and all its subdomains)
+Coral Sports  (and all its subdomains)
+Gala Bingo (and all its subdomains)
+SolarWinds Orion
+Orion Agent
+IPAM
+NPM
+WPM
+Log Analyzer
+NCM
+NTA
+SAM
+SCM
+DPAIM
+EOC
+SPM
+SRM
+UDT
+VMAN
+VNQM
+ETS
+https://api.similarweb.com
+https://pro.similarweb.com
+https://www.similarweb.com/
+https://www.similarweb.com/*
+https://account.similarweb.com/
+Corporate:  192.131.136.0/22
+Remote Access: 208.98.234.0/24
+Webmail & ActiveSync
+FTP
+http://access.cnrl.com/
+http://access2.cnrl.com/
+http://portal.cnrl.com/
+http://accessvpn.cnrl.com/
+ftptest.cnrl.com
+qantas.com
+https://wine.qantas.com/
+Android App: Qantas Wine
+iOS App:  Qantas Wine
+https://accounts.qantas.com/auth/member/
+Android App:  Qantas Airways
+iOS App: Qantas Airways
+https://store.qantas.com/
+https://extranet.qantashotels.com/
+https://api.hooroo.com/
+https://api.qantashotels.com/
+https://api.services.qantasloyalty.com
+shopping.qantas.com
+partnerportal.qantas.com
+lpx.qantas.com
+lps.qantas.com
+ci.redplanetgroup.com.au
+api.redplanetgroup.com.au
+cardcompanion.qantas.com
+gateway.qantasloyalty.com
+api.insurance.qantas.com
+insurance.qantas.com
+api.qantasmoney.com
+assets.qantasmoney.com
+www.qantasmoney.com
+partnerportal.qantasloyalty.com
+bounty.skroutz.dev
+bounty.skroutz.dev/oauth2/token
+bounty.skroutz.dev/api/
+merchants.bounty.skroutz.dev
+taxonomy-dot-wf-pentest.appspot.com
+tomcat-qa.webfilings.com
+validate-test.webfilings.com
+taxonomy-dev.wdesk.org
+w-bolt-stage.appspot.com
+*.olympus.wdesk.com
+All of https://*.aircall.io/*
+All documented APIs in https://developer.aircall.io/api-references/
+Internal undocumented APIs under *.aircall.io like phone.aircall.io, mobile.aircall.io, internal.aircall.io and others
+Aircall Official Android Application
+Aircall Official iOS Application
+Aircall Official Desktop Applications
+https://aircall.io/*
+https://brand.aircall.io/*
+Luno Android Application
+Luno iOS Application
+https://mobileapi.staging.luno.com/
+https://staging.luno.com/
+https://ajax.staging.luno.com/
+https://api.staging.luno.com/
+https://app.staging.luno.com/
+Traveloka Android
+Tera Android
+Axes Android
+Trip Android
+Traveloka iOS
+Tera iOS
+Axes iOS
+Traveloka Main
+Traveloka Mobile
+Tera Main
+Axes Business
+Axes Internal
+Corporate CTV
+Traveloka Partner
+Merchant Extranet
+Transport Extranet #1
+Transport Extranet #2
+Transport Extranet #3
+*.traveloka.com
+*.tvlk-data.com
+*.travelokapay.com
+*.tvlk-pay.com
+www.magicleap.com
+*id.magicleap.com
+*oauth.magicleap.com
+api.*.magicleap.com
+api.magicleap.com
+jump.magicleap.com
+*developer.magicleap.com
+ml1-flash.magicleap.cloud
+devicemanager.magicleap.com
+world.magicleap.com
+auth-static-1.magicleap.com
+static-1.*.magicleap.com
+assets.*.magicleap.com
+bluevoyant.com
+*.bluevoyant.com
+https://www.managedsentinel.com/
+https://portal.bluevoyant.com/
+https://portal.managedsentinel.com/
+https://mtest.hosted.bluevoyant.com/
+api.bluevoyant.com
+*.global-fashion-group.com
+*.sellercenter.net
+*.gfgtech.com
+*.datajet.io
+sellercenter.com.br
+api.sellercenter.com.br
+static.sellercenter.com.br
+staging.sellercenter.com.br
+https://*.allsole.com/
+https://*.ameliorate.com/
+https://*.beautyexpert.com/
+https://*.coggles.com/
+https://*.mioskincare.com/
+https://*.mybag.com/
+https://*.myprotein.com/
+https://*.thehut.com/
+https://*.myvitamins.com/
+https://*.skinstore.com/
+https://*.probikekit.com/
+https://*.powerman.co.uk/
+https://*.espaskincare.com/
+https://*.exantediet.com/
+https://*.eyeko.com/
+https://*.glossybox.com/
+https://*.growgorgeous.com/
+https://*.hqhair.com/
+https://*.illamasqua.com/
+https://*.lookfantastic.com/
+https://*.mankind.co.uk/
+https://*.dermstore.com
+https://*.massfi.co.uk/
+https://*.preloved.co.uk/
+https://www.westhost.com/
+https://www.midphase.com/
+https://www.uk2.net/
+https://*.thghosting.com/
+https://www.vi.net/
+https://www.vps.net/
+http://status.vps.net/
+https://status.uk2.net/
+https://status.vi.net/
+https://status.midphase.com/
+https://www.halecountryclub.co.uk/
+https://www.thg.com/
+https://www.eclectichotels.co.uk/
+Lookfantastic Android Application
+Myprotein Android Application
+Ameliorate Android Application
+SkinStore Android Application
+ESPA Android Application
+Coggles Android Application
+AllSole Android Application
+MyBag Android Application
+Myvitamins Android Application
+Exante Android Application
+lookfantastic iOS Application
+Myprotein iOS Application
+Coggles iOS Application
+Exante iOS Application
+AllSole iOS Application
+MyBag iOS Application
+Ameliorate iOS Application
+Myvitamins iOS Application
+ESPA iOS Application
+https://homebase.teepee.thgingenuity.com
+https://*.moretrees.eco/
+http://www.ingenuitylite.com
+https://*.ingenuitycloudservices.com
+https://www.matalan.co.uk
+https://checkout.matalan.co.uk
+https://horizon-api.www.coggles.com/
+https://horizon-api.www.allsole.com/
+https://horizon-api.www.mybag.com/
+Enhanced Search (JQL & Subqueries) - Cloud - https://marketplace.atlassian.com/apps/1221331/enhanced-search-jql-subqueries?hosting=cloud&tab=overview
+ScriptRunner for Jira - Cloud - https://marketplace.atlassian.com/apps/6820/scriptrunner-for-jira?hosting=cloud&tab=overview
+ScriptRunner for Confluence - Cloud - https://marketplace.atlassian.com/apps/1215215/scriptrunner-for-confluence?hosting=cloud&tab=overview
+Community Forums for Confluence - Cloud - https://marketplace.atlassian.com/apps/1211273/community-forums-for-confluence?hosting=cloud&tab=overview
+Forms for Confluence - Cloud - https://marketplace.atlassian.com/apps/261/forms-for-confluence?hosting=cloud&tab=overview
+ScriptRunner for Jira - Data Center - https://marketplace.atlassian.com/apps/6820/scriptrunner-for-jira?hosting=datacenter&tab=overview
+ScriptRunner for Jira - Server - https://marketplace.atlassian.com/apps/6820/scriptrunner-for-jira?hosting=server&tab=overview
+ScriptRunner for Confluence - Server - https://marketplace.atlassian.com/apps/1215215/scriptrunner-for-confluence?hosting=server&tab=overview
+ScriptRunner for Confluence - Data Center - https://marketplace.atlassian.com/apps/1215215/scriptrunner-for-confluence?hosting=datacenter&tab=overview
+ScriptRunner for Bitbucket - Server - https://marketplace.atlassian.com/apps/1213250/scriptrunner-for-bitbucket?hosting=server&tab=overview
+ScriptRunner for Bitbucket - Data Center - https://marketplace.atlassian.com/apps/1213250/scriptrunner-for-bitbucket?hosting=datacenter&tab=overview
+ScriptRunner for Bamboo - Server - https://marketplace.atlassian.com/apps/1217785/scriptrunner-for-bamboo?hosting=server&tab=overview
+Content Formatting Macros for Confluence - Cloud - https://marketplace.atlassian.com/apps/247/content-formatting-macros-for-confluence?hosting=cloud&tab=overview
+Content Formatting Macros for Confluence - Server - https://marketplace.atlassian.com/apps/247/content-formatting-macros-for-confluence?hosting=server&tab=overview
+Content Formatting Macros for Confluence - Data Center - https://marketplace.atlassian.com/apps/247/content-formatting-macros-for-confluence?hosting=datacenter&tab=overview
+LaTeX for Confluence - Cloud - https://marketplace.atlassian.com/apps/1222938/latex-for-confluence?hosting=cloud&tab=overview
+Tabs for Confluence - Cloud - https://marketplace.atlassian.com/apps/1222536/tabs-for-confluence?hosting=cloud&tab=overview
+Tooltips for Confluence - Cloud - https://marketplace.atlassian.com/apps/1223564/tooltips-for-confluence?hosting=cloud&tab=overview
+Footnotes for Confluence - Cloud - https://marketplace.atlassian.com/apps/1224015/footnotes-for-confluence?hosting=cloud&tab=overview
+Buttons for Confluence - Cloud - https://marketplace.atlassian.com/apps/1222939/buttons-for-confluence?hosting=cloud&tab=overview
+Progress Bar for Confluence - Cloud - https://marketplace.atlassian.com/apps/1222785/progress-bar-for-confluence?hosting=cloud&tab=overview
+Round Rectangle  for Confluence - Cloud - https://marketplace.atlassian.com/apps/1223173/round-rectangle-for-confluence?hosting=cloud&tab=overview
+Hierarchy for Jira - Cloud - https://marketplace.atlassian.com/apps/1220574/hierarchy-for-jira?hosting=cloud&tab=overview
+JQL Sum Up for Jira - Cloud - https://marketplace.atlassian.com/apps/1222689/jql-sum-up?hosting=cloud&tab=overview
+Behaviours - ScriptRunner for Jira Cloud - https://marketplace.atlassian.com/apps/1228522/behaviours-scriptrunner-for-jira-cloud?hosting=cloud
+Numbered Headings for Confluence - Cloud - https://marketplace.atlassian.com/apps/1230321/numbered-headings-for-confluence?hosting=cloud&tab=overview
+zalora.com
+zalora.sg
+zalora.com.my
+zalora.co.id
+zalora.com.ph
+zalora.com.hk
+zalora.com.tw
+oms.zalora.*
+bob.zalora.*
+*.zalora-ops.com
+*.zalora.io
+*.zalora.net
+api.zalora.*
+com.zalora.android
+com.zalora
+Custom Fields for Jira Cloud - https://marketplace.atlassian.com/apps/1213649/custom-fields-for-jira-cloud?hosting=cloud&tab=overview
+Custom Relationships - https://marketplace.atlassian.com/apps/1221958/custom-relationships?hosting=cloud&tab=overview
+Sub Task Manager for Jira - Cloud Hosted - https://marketplace.atlassian.com/apps/1214056/sub-task-manager-for-jira?hosting=cloud&tab=overview
+Sub Task Manager Lite for Jira Cloud - https://marketplace.atlassian.com/apps/1219653/sub-task-manager-lite-for-jira-cloud?hosting=cloud&tab=overview
+Transition Manager for Jira Cloud - https://marketplace.atlassian.com/apps/1217679/transition-manager-for-jira-cloud?hosting=cloud&tab=overview
+Watch It for Jira Cloud - https://marketplace.atlassian.com/apps/1213851/watch-it-for-jira-cloud?hosting=cloud&tab=overview
+Smart Git Integration for Jira - Cloud Hosted - https://marketplace.atlassian.com/apps/1220080/smart-git-integration-for-jira?hosting=cloud&tab=overview
+Mail Me - Cloud Hosted - https://marketplace.atlassian.com/apps/1220976/mail-me?hosting=cloud&tab=overview
+Checklist - Cloud Hosted - https://marketplace.atlassian.com/apps/1220315/checklist?hosting=cloud&tab=overview
+Power BI Connector for Jira - Cloud Hosted - https://marketplace.atlassian.com/apps/1221150/power-bi-connector-for-jira?hosting=cloud&tab=overview
+2FA for Jira: U2F & TOTP - Server -https://marketplace.atlassian.com/apps/1220048/2fa-for-jira-u2f-totp?hosting=server&tab=overview
+2FA for Jira: U2F & TOTP - DataCenter - https://marketplace.atlassian.com/apps/1220048/2fa-for-jira-u2f-totp?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/1220359/2fa-for-confluence-u2f-totp?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/1220942/2fa-for-bitbucket-u2f-totp?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/1220849/2fa-for-crowd-u2f-totp?hosting=server&tab=overview
+https://marketplace.atlassian.com/apps/1221280/2fa-for-bamboo-u2f-totp?hosting=server&tab=overview
+https://marketplace.atlassian.com/apps/1221376/tableau-connector-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1220359/2fa-for-confluence-u2f-totp?hosting=server&tab=overview
+https://marketplace.atlassian.com/apps/1220942/2fa-for-bitbucket-u2f-totp?hosting=server&tab=overview
+https://marketplace.atlassian.com/apps/1224777/azure-communication-services-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1225084/microsoft-forms-for-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1225318/canva-for-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1225419/canva-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1221749/bigquery-connector-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1226871/amazon-chime-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1228195/oracle-analytics-connector-for-jira?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/1229179/sap-analytics-cloud-connector-for-jira?hosting=cloud&tab=overview
+Vault Password Manager - Cloud Hosted - https://marketplace.atlassian.com/apps/1230914/vault-password-manager?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/1230676/sql-connector-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1228195/oracle-analytics-connector-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1221749/bigquery-connector-for-jira?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/1221376/tableau-connector-for-jira?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/1221150/power-bi-connector-for-jira?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/1232588/looker-studio-connector-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1230676/sql-connector-for-jira?hosting=datacenter&tab=overview
+https://stage-demo-gssbugcrow.gainsightcloud.com/
+https://marketplace.atlassian.com/apps/1217371/intercom-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1220191/travis-ci-integration-for-jira?hosting=cloud
+*.dev.hibob.com
+api.dev.hibob.com
+Hibob iOS app
+Hibob Android app
+NO_IN_SCOPE_TABLE
+https://api.infobip.com
+http://smpp.infobip.com:8887
+https://portal.infobip.com/
+https://sandbox.dashboard.sezzle.com/customer
+https://sandbox.checkout.sezzle.com
+Any API calls related to functionality on the in-scope targets
+Merchant Dashboard
+Sezzle Mobile App for iOS
+Sezzle Mobile App for Android
+https://sandbox.api.sezzle.com/v5/shopper/change-phone/former
+https://sandbox.api.sezzle.com/v5/shopper/change-phone/email-otp
+https://sandbox.api.sezzle.com/v5/shopper/change-phone/email-otp/resend
+https://sandbox.api.sezzle.com/v5/shopper/change-phone/new
+https://sandbox.api.sezzle.com/v5/shopper/change-phone/otp
+https://sandbox.api.sezzle.com/v5/shopper/change-phone/otp/resend
+https://sandbox.api.sezzle.com/v5/shopper/change-phone/otp/voice
+https://sandbox.api.sezzle.com/v5/shopper/change-phone/auth/new
+https://sandbox.api.sezzle.com/v5/shopper/change-phone/auth/otp
+https://sandbox.api.sezzle.com/v5/shopper/change-phone/auth/otp/resend
+https://sandbox.api.sezzle.com/v5/shopper/change-phone/auth/otp/voice
+All features on prezi.com
+Prezi Video on prezi.com
+Prezi Present on prezi.com
+Prezi Design on prezi.com
+Prezi Video API used by the desktop app
+Prezi Present APIs used by the desktop app
+https://bugcrowd.cpoms.net/
+http://taskrabbit.com
+https://apps.apple.com/app/tasker-by-taskrabbit/id1455415833?ls=1
+https://play.google.com/store/apps/details?id=com.taskrabbit.droid.rabbit
+www.adidas.*
+Adidas iOS Ecommerce application
+Adidas Android Ecommerce application
+Runtastic Andoid application
+Runtastic iOS application
+www.runtastic.*
+https://marketplace.atlassian.com/apps/1221322/refined-for-confluence-cloud?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1218481/refined-for-jira-cloud?hosting=cloud&tab=overview
+bugbounty-refined-test-<bugcrowd-name>.refined.site
+refined.site/admin
+refinedsites.refinedwiki.com
+https://marketplace.atlassian.com/apps/1216056/refined-toolkit-for-confluence-cloud?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1211768/wbs-gantt-chart-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1214580/excel-like-issue-editor-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1223727/excel-like-tables-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1225075/excel-like-tables-for-confluence-chart-sheet-export?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1227063/gantt-chart-planner-for-confluence-fast-roadmap-timeline?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/1226365/secure-custom-fields-for-jira-field-permissions-security?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1225377/space-sync-for-confluence-copy-publish-pages-over-sites?tab=overview&hosting=cloud
+admin.zooz.com
+developers.paymentsos.com
+api.paymentsos.com
+control.paymentsos.com
+Emails Communication
+Subscriptions Product
+Communication (SMSBump)
+https://member.public.staging.tia-eng.com/
+api.virtru.com
+api.virtru.com/accounts
+api.virtru.com/acm (api.virtru.com/storage)
+api.virtru.com/kas
+audit.virtru.com
+api.virtru.com/encrypted-storage
+api.virtru.com/auth
+Virtru SDKs
+Virtru Gmail Plugin
+Virtru Outlook Plugin ['10, '13, '16, '19]
+Virtru iOS Application
+Virtru Android App
+Virtru O365/Outlook Plugin
+Secure Reader
+Virtru Control Center (formerly Dashboard)
+Secure Share
+https://cmw.smartrent-security.com/login
+SmartRent Resident iOS App
+SmartRent Resident Android App
+https://bugbounty.st3.qualtrics.com
+https://xmbugbounty{number}g1.st3.qualtrics.com
+*.enerbank.com
+https://*.regions.com
+iOS and Android Mobile Testing
+*.regionsapps.com
+api.worldremit.com
+www.worldremit.com
+WorldRemit Mobile App (APK)
+WorldRemit Mobile App (iOS)
+*.worldremit.com
+Blackboard Learn Ultra Application
+Blackboard Learn Ultra Partner Cloud Integration
+Blackboard Learn Ultra Consulting Central Integration
+Blackboard Learn Original Application
+Blackboard Learn Original Consulting Central Integration
+Blackboard Learn Original Partner Cloud Integration
+Blackboard SafeAssignService through the Learn Ultra UI
+Blackboard SafeAssign Service through REST API (Learn Ultra)
+Blackboard SafeAssign Service through the Learn Original UI
+Blackboard SafeAssign Service through REST API (Learn Original)
+Ally Integration for Learn Ultra
+Ally Integration for Learn Original
+Blackboard Student App for Learn Original  (iOS)
+Blackboard Student App for Learn Original  (Android)
+Blackboard Instructor App for Learn Original  (iOS)
+Blackboard Instructor App for Learn Original  (Android)
+Blackboard Instructor App for Learn Ultra (iOS)
+Blackboard Instructor App for Learn Ultra (Android)
+Blackboard Student App for Learn Ultra (iOS)
+Blackboard Student App for Learn Ultra (Android)
+NO_IN_SCOPE_TABLE
+https://api.test.paysafe.com
+https://api.test.netbanx.com
+nbx-backoffice - https://login.test.netbanx.com
+https://merchant.test.paysafe.com/portal/
+paysafe-psp-hosted - https://hosted.test.paysafe.com
+paysafe-mer-onboarding-fe - https://merchant.test.paysafe.com/onboarding-form#/signup?configId=100628
+https://webservices.test.optimalpayments.com/directdebitWS/DirectDebitService/v1
+Digi Accelerated Linux (DAL)
+Digi xOS
+Digi Accelerated Linux PR (DAL-PR)
+Digi Remote Manager
+https://www.thefork.com/
+https://m.thefork.com
+https://www.restaurant-information.com
+https://blog.thefork.com/
+https://api.thefork.com
+https://api.lafourchette.com
+https://review-api.lafourchette.com
+https://google-reserve-api.thefork.io
+https://m-api.lafourchette.com
+The Fork Android App
+The Fork iOS App
+*.tools.thefork.tech
+https://member.neteller.com
+paysafe-wac-web-login-fe - https://account.skrill.com
+paysafe-direct-remittance-standalone-fe - https://transfers.skrill.com
+Skrill iOS app
+Skrill Android app
+Neteller Android app
+Neteller iOS app
+https://signup.skrill.com/onboarding/#/?rdu=onboarding&rid=onboarding
+NO_IN_SCOPE_TABLE
+bugcrowd5.geotab.com
+bugcrowd6.geotab.com
+bugcrowd7.geotab.com
+bugcrowd8.geotab.com
+bugcrowd9.geotab.com
+bugcrowd10.geotab.com
+bugcrowd11.geotab.com
+https://github.com/PayU-EMEA/plugin_prestashop
+https://github.com/PayU-EMEA/openpayu_php
+*.snd.payu.com
+https://github.com/PayU-EMEA/plugin_magento_23
+https://github.com/PayU-EMEA/plugin_woocommerce
+manager.thefork.com
+www.theforkmanager.com
+secure.thefork.com
+payment.lafourchette.com
+api.thefork.io
+The Fork Manager iOS App
+The Fork Manager Android App
+https://developer.thefork.io/
+*.draftkings.com (except excluded sub-domains)
+DraftKings iOS App
+DraftKings Android App
+DK Live Android App
+DK Live iOS App
+sportsbook.draftkings.com
+DraftKings Sportsbook iOS App
+DraftKings Sportsbook Android App
+*.dkinternal.com
+*.draftkingsmedia.com
+games.draftkingsmedia.com
+*.dkcorpit.com
+*.dkexternal.com
+Misconfigured 3rd party services (see note below for specifics)
+https://www.draftkings.com/about/*
+https://www.shopdraftkings.com/
+marketplace.draftkings.com
+Barracuda Login App
+Barracuda Cloud Control
+Barracuda Email Security
+Barracuda Forensics and Incident Response
+Barracuda Sentinel
+Barracuda Cloud Archiving Service
+Barracuda Backup Service
+Barracuda Vulnerability Manager
+Barracuda Appliance Control
+Barracuda CloudGen Access
+Managed Service Provider
+Barracuda Phishline (Tenant C)
+Barracuda Phishline (Tenant D)
+Barracuda WAF-as-a-Service
+https://api.material.com
+https://admin.volusion.com
+v2bugbounty.myvolusion.com
+Login page https://www.volusion.com/login
+*.surveymonkey.com
+*.surveymonkey.ca
+https://developer.surveymonkey.com/
+SurveyMonkey Rewards Android app
+SurveyMonkey Rewards iOS app
+SurveyMonkey Android app
+SurveyMonkey iOS app
+https://www.surveymonkey.com/graphql
+https://submit.gopro.com
+https://gopro.com/signup
+https://gopro.com/login
+https://gopro.com/logout
+https://gopro.com/forgot-password
+https://plus.gopro.com/media-library
+https://gopro.com/account
+api.gopro.com/*
+https://gopro.com/*/shop/*
+https://shop.gopro.com/*
+HERO9, HERO10, HERO11, HERO12, and GoPro MAX devices
+GoPro Quik App (iOS)
+GoPro Quik App (Android)
+GoPro API (see below for details)
+*.GOPRO-DSE.COM
+*.GOPRO.COM
+*.STAGING.GOPRO.COM
+WWW.CINEFORM.COM
+SIP.GOPRO.COM
+HERONET.GOPRO.COM
+CRYPT.CORP.GOPRO.COM
+52.40.73.42
+52.43.38.13
+52.40.195.251
+GoPro Player
+GoPro Max Exporter
+atom-aws01d.gopro.com
+atom-aws03.corp.gopro.com
+atom-aws01.corp.gopro.com
+atom-aws01.gopro.com
+atom-aws04.corp.gopro.com
+CALENDAR.GOPRO.COM
+GROUPS.GOPRO.COM
+MUNKI-ORIGIN-01P.CORP.GOPRO.COM
+34.208.13.46
+groups.gopro.com
+heronet.gopro.com
+GUEST.GOPRO.COM
+MANVPNP.CORP.GOPRO.COM
+PARVPN.CORP.GOPRO.COM
+MANVPN2.CORP.GOPRO.COM
+SJCVPNP.CORP.GOPRO.COM
+SAMVPN.CORP.GOPRO.COM
+SANVPN.CORP.GOPRO.COM
+SJCVPN.CORP.GOPRO.COM
+SJCVPN2.CORP.GOPRO.COM
+SHZVPN.CORP.GOPRO.COM
+BUCVPN.CORP.GOPRO.COM
+MANVPN.CORP.GOPRO.COM
+WHEXCEPTIONS.GOPRO.COM
+B2BRETURNS.GOPRO.COM
+54.213.3.209
+54.245.49.62
+35.161.194.184
+35.167.141.144
+52.33.5.37
+44.241.223.85
+54.245.23.74
+35.80.158.67
+35.80.187.63
+52.27.170.89
+35.81.73.81

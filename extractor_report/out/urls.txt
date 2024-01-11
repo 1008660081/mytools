@@ -1,0 +1,111 @@
+https://hackerone.com/reports/1000363      Reflected XSS on https://e.mail.ru/compose/ via Body parameter
+==========================================================================================================
+https://hackerone.com/reports/1000567      ReDoS at wiki.cs.money graphQL endpoint (AND probably a kind of command injection)
+https://wiki.cs.money/graphql'
+https://www.rexegg.com/regex-explosive-quantifiers.html
+==========================================================================================================
+https://hackerone.com/reports/100200      Open Redirect in meeting.qiwi.com
+==========================================================================================================
+https://hackerone.com/reports/1002188      Potential HTTP Request Smuggling in nodejs
+==========================================================================================================
+https://hackerone.com/reports/1002641      SQL Injection leads to retrieve the contents of an entire database. 
+==========================================================================================================
+https://hackerone.com/reports/1003433      XSS Reflect to POST █████
+==========================================================================================================
+https://hackerone.com/reports/1003468      Send Empty CSRF leads to log out user on [https://hosted.weblate.org/accounts/profile]
+https://hosted.weblate.org/)
+https://hosted.weblate.org/accounts/login/)
+==========================================================================================================
+https://hackerone.com/reports/10037      SQL inj
+http://parapa.mail.ru/gallery/BirthdayParaPa/-1%27%20or%201=IF%28LENGTH%28ASCII%28%28SELECT%20USER%28%29%29%29%29=3,%201,%200%29%20--%20//
+==========================================================================================================
+https://hackerone.com/reports/1003980      CVE-2020-14179 on https://jira.theendlessweb.com/secure/QueryComponent!Default.jspa leads to information disclosure
+https://jira.theendlessweb.com/secure/QueryComponent!Default.jspa
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14179
+==========================================================================================================
+https://hackerone.com/reports/1004136      subdomain Takeover
+==========================================================================================================
+https://hackerone.com/reports/1004360      Account TakeOver at kvartira.city-mobil.ru
+==========================================================================================================
+https://hackerone.com/reports/1004536      Reset password cookie leads to account takeover
+https://hosted.weblate.org/accounts/login`
+https://hosted.weblate.org/accounts/reset/)
+==========================================================================================================
+https://hackerone.com/reports/1004604      Subdomain Takeover
+==========================================================================================================
+https://hackerone.com/reports/1004745      View another user information with IDOR vulnerability 
+https://███████/login.php)
+https://██████████/register.php)(i
+https://███/login.php)
+==========================================================================================================
+https://hackerone.com/reports/1004750      IDOR + Account Takeover  [UNAUTHENTICATED]
+==========================================================================================================
+https://hackerone.com/reports/1004833      Cross-site Scripting (XSS) - DOM - iqcard.informatica.com
+https://iqcard.informatica.com/pub/fujitsu/fm3v2/player/attach.html?evil.com
+https://iqcard.informatica.com/pub/fujitsu/fm3v2/player/attach.html?javascript:alert(1)
+==========================================================================================================
+https://hackerone.com/reports/1004847      SSRF Possible through /wordpress/xmlrpc.php
+https://www.wpbeginner.com/wp-tutorials/how-to-disable-trackbacks-and-pings-on-existing-wordpress-posts/)
+https://www.securityweek.com/pingback-function-wordpress-vulnerable-malicious-use-serves-attack-tool)
+https://grabify.link)
+http://youtube.com`.
+==========================================================================================================
+https://hackerone.com/reports/100500      [tz.mail.ru] XSS в функционале авторизации 
+https://tz.mail.ru/
+https://tz.mail.ru/#"><script>alert($('#mailru').val()
+==========================================================================================================
+https://hackerone.com/reports/1005315      Access User Tickets via IDOR in [widget.support.my.games]
+==========================================================================================================
+https://hackerone.com/reports/1005355      Unrestricted File Upload Results in Cross-Site Scripting Attacks
+==========================================================================================================
+https://hackerone.com/reports/1005421      [api.tumblr.com] Denial of Service by cookies manipulation
+https://hackerone.com/reports/583819
+https://api.tumblr.com/console/auth?
+https://www.tumblr.com/
+https://www.tumblr.com/oauth/apps
+https://api.tumblr.com/console/auth?consumer_key=x;%20domain=tumblr.com;%20Max-Age=1000000000000000000000&consumer_secret=x;%20domain=tumblr.com;%20Max-Age=1000000000000000000000
+https://www.tumblr.com/oauth/apps
+https://www.tumblr.com/oauth/authorize?oauth_token=*&source=console
+==========================================================================================================
+https://hackerone.com/reports/1000363      Reflected XSS on https://e.mail.ru/compose/ via Body parameter
+==========================================================================================================
+https://hackerone.com/reports/1000567      ReDoS at wiki.cs.money graphQL endpoint (AND probably a kind of command injection)
+https://wiki.cs.money/graphql'
+https://www.rexegg.com/regex-explosive-quantifiers.html
+==========================================================================================================
+https://hackerone.com/reports/100200      Open Redirect in meeting.qiwi.com
+==========================================================================================================
+https://hackerone.com/reports/1002188      Potential HTTP Request Smuggling in nodejs
+==========================================================================================================
+https://hackerone.com/reports/1002641      SQL Injection leads to retrieve the contents of an entire database. 
+==========================================================================================================
+https://hackerone.com/reports/1003433      XSS Reflect to POST █████
+==========================================================================================================
+https://hackerone.com/reports/1003468      Send Empty CSRF leads to log out user on [https://hosted.weblate.org/accounts/profile]
+https://hosted.weblate.org/)
+https://hosted.weblate.org/accounts/login/)
+==========================================================================================================
+https://hackerone.com/reports/10037      SQL inj
+http://parapa.mail.ru/gallery/BirthdayParaPa/-1%27%20or%201=IF%28LENGTH%28ASCII%28%28SELECT%20USER%28%29%29%29%29=3,%201,%200%29%20--%20//
+==========================================================================================================
+https://hackerone.com/reports/1003980      CVE-2020-14179 on https://jira.theendlessweb.com/secure/QueryComponent!Default.jspa leads to information disclosure
+https://jira.theendlessweb.com/secure/QueryComponent!Default.jspa
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14179
+==========================================================================================================
+https://hackerone.com/reports/1004136      subdomain Takeover
+==========================================================================================================
+https://hackerone.com/reports/1004360      Account TakeOver at kvartira.city-mobil.ru
+==========================================================================================================
+https://hackerone.com/reports/1004536      Reset password cookie leads to account takeover
+https://hosted.weblate.org/accounts/login`
+https://hosted.weblate.org/accounts/reset/)
+==========================================================================================================
+https://hackerone.com/reports/1004604      Subdomain Takeover
+==========================================================================================================
+https://hackerone.com/reports/1004745      View another user information with IDOR vulnerability 
+https://███████/login.php)
+https://██████████/register.php)(i
+https://███/login.php)
+==========================================================================================================
+https://hackerone.com/reports/1004750      IDOR + Account Takeover  [UNAUTHENTICATED]
+==========================================================================================================
