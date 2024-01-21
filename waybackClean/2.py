@@ -36,6 +36,6 @@ with open('a.txt', 'r') as file:
 unique_urls = remove_duplicates_by_path(url_list)
 
 # 将去重后的URL列表输出到文件"out.txt"
-with open('out.1111', 'w') as file:
+with open('out.txt', 'w') as file:
     for url in unique_urls:
         file.write(url + '\n')
