@@ -21,6 +21,6 @@ def deduplicate_urls_with_limit(input_file, output_file, limit=3):
             outfile.write(unique_url + '\n')
 
 if __name__ == "__main__":
-    input_file = "1.txt"
-    output_file = "httpx.txt"
+    input_file = "urls.txt"
+    output_file = "shuf.txt"
     deduplicate_urls_with_limit(input_file, output_file, limit=3)

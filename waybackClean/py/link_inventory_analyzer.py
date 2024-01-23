@@ -2,7 +2,7 @@ from urllib.parse import urlparse
 from collections import defaultdict
 
 # 读取文件
-file_path = '2.txt'
+file_path = 'urls.txt'
 with open(file_path, 'r') as file:
     lines = file.readlines()
 

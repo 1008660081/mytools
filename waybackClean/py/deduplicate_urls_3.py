@@ -2,7 +2,7 @@ from urllib.parse import urlparse
 from collections import defaultdict
 
 # 读取文件
-file_path = '1.txt'
+file_path = 'urls.txt'
 with open(file_path, 'r') as file:
     lines = file.readlines()
 
@@ -19,7 +19,7 @@ for line in lines:
         domain_url_count[domain].append(url)
 
 # 输出结果到2.txt文件
-output_file_path = '2.txt'
+output_file_path = 'shuf.txt'
 with open(output_file_path, 'w') as output_file:
     for domain, urls in domain_url_count.items():
         for url in urls:

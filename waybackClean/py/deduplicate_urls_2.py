@@ -29,13 +29,13 @@ def remove_duplicates_by_path(urls):
     return unique_urls
 
 # 从文件"a.txt"读取URL列表
-with open('a.txt', 'r') as file:
+with open('urls.txt', 'r') as file:
     url_list = [line.strip() for line in file]
 
 # 调用去重函数
 unique_urls = remove_duplicates_by_path(url_list)
 
 # 将去重后的URL列表输出到文件"out.txt"
-with open('out.1111', 'w') as file:
+with open('shuf.txt', 'w') as file:
     for url in unique_urls:
         file.write(url + '\n')
