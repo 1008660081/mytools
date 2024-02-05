@@ -8,7 +8,7 @@ with open("params.txt") as f:
 n = 50
 
 # XSS payload
-xss = "lol123%3cx"
+xss = "1z%27z%22z%3cz%2fz123%5cx"
 
 out = ""
 
