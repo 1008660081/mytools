@@ -27,7 +27,7 @@ def read_urls_from_file(file_path):
     return urls
 
 # 从文件中读取 URLs
-file_path = 'bbb.txt'
+file_path = 'urls.txt'
 urls_from_file = read_urls_from_file(file_path)
 
 # 统计一级目录出现次数
