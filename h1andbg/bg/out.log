@@ -1,2 +1,0 @@
-[VMware-Cloud-Reflected-Xss] [http] [high] https://vcd-uswest01.vmware.thghosting.com/login/?errorMessage=%3Clol123%3E
-[VMware-Cloud-Reflected-Xss] [http] [high] https://vcd-uksouth01.vmware.thghosting.com/login/?errorMessage=%3Clol123%3E

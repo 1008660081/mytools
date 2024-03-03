@@ -1,0 +1,304 @@
+NO_IN_SCOPE_TABLE  https://bugcrowd.com/programs/teasers/small-sunset-5656
+NO_IN_SCOPE_TABLE  https://bugcrowd.com/programs/teasers/small-dew-2087
+NO_IN_SCOPE_TABLE  https://bugcrowd.com/programs/teasers/auGYMAudW3xRzkUm5mhBA9nh
+216.20.176.0/20  https://bugcrowd.com/northwestern-mutual
+*.northwesternmutual.com  https://bugcrowd.com/northwestern-mutual
+*.nmfn.com  https://bugcrowd.com/northwestern-mutual
+*.nml.com  https://bugcrowd.com/northwestern-mutual
+innovation.northwesternmutual.com  https://bugcrowd.com/northwestern-mutual
+https://portal.deepwatch.com  https://bugcrowd.com/deepwatch-mbb-og
+https://deepwatchdev.wpengine.com/  https://bugcrowd.com/deepwatch-mbb-og
+<researcher ID>-bugcrowd.auth0.com (Authentication API)  https://bugcrowd.com/auth0
+<researcher ID>-1-bugcrowd.auth0.com (Authentication API)  https://bugcrowd.com/auth0
+<researcher ID>-bugcrowd.auth0.com/api/v2 (Management API)  https://bugcrowd.com/auth0
+<researcher ID>-1-bugcrowd.auth0.com/api/v2 (Management API)  https://bugcrowd.com/auth0
+manage.auth0.com (Management Dashboard)  https://bugcrowd.com/auth0
+Auth0 Guardian Android  https://bugcrowd.com/auth0
+Auth0 Guardian IoS  https://bugcrowd.com/auth0
+marketplace.auth0.com (Auth0 Marketplace)  https://bugcrowd.com/auth0
+MFA Integrations  https://bugcrowd.com/auth0
+https://github.com/auth0/auth0.js (Auth0 SDK for Web)  https://bugcrowd.com/auth0
+https://github.com/auth0/lock (Lock for Web)  https://bugcrowd.com/auth0
+https://github.com/auth0/auth0-spa-js (Auth0 Single Page App SDK)  https://bugcrowd.com/auth0
+https://github.com/auth0/express-openid-connect (Express OpenID Connect)  https://bugcrowd.com/auth0
+https://github.com/auth0/auth0-react (Auth0 SDK for React Single Page Applications)  https://bugcrowd.com/auth0
+https://github.com/auth0/node-auth0 (Node.js SDK)  https://bugcrowd.com/auth0
+https://github.com/auth0/Auth0.Net (.NET SDK)  https://bugcrowd.com/auth0
+https://github.com/auth0/nextjs-auth0 (Next.js SDK)  https://bugcrowd.com/auth0
+https://github.com/auth0/auth0-java (Java SDK)  https://bugcrowd.com/auth0
+https://github.com/auth0/react-native-auth0 (react-native SDK)  https://bugcrowd.com/auth0
+https://github.com/auth0/auth0-php (PHP SDK)  https://bugcrowd.com/auth0
+https://dashboard.fga.dev/  https://bugcrowd.com/auth0
+https://api.us1.fga.dev/  https://bugcrowd.com/auth0
+https://customers.us1.fga.dev/  https://bugcrowd.com/auth0
+https://play.fga.dev/  https://bugcrowd.com/auth0
+auth0.com  https://bugcrowd.com/auth0
+samltool.io  https://bugcrowd.com/auth0
+webauthn.me  https://bugcrowd.com/auth0
+openidconnect.net  https://bugcrowd.com/auth0
+jwt.io  https://bugcrowd.com/auth0
+auth0.net  https://bugcrowd.com/auth0
+NO_IN_SCOPE_TABLE  https://bugcrowd.com/programs/teasers/shy-sun-493
+bc.yieldstreet.net  https://bugcrowd.com/yieldstreet-bb
+betterhelp.com  https://bugcrowd.com/betterhelp
+betterhelp.com.au  https://bugcrowd.com/betterhelp
+betterhelp.co.il  https://bugcrowd.com/betterhelp
+betterhelporg.com  https://bugcrowd.com/betterhelp
+mytherapist.com  https://bugcrowd.com/betterhelp
+regain.us  https://bugcrowd.com/betterhelp
+teencounseling.com  https://bugcrowd.com/betterhelp
+BetterHelp Mobile Applications (iOS)  https://bugcrowd.com/betterhelp
+BetterHelp Mobile Applications (Android)  https://bugcrowd.com/betterhelp
+13.52.170.51  https://bugcrowd.com/betterhelp
+13.52.52.137  https://bugcrowd.com/betterhelp
+NO_IN_SCOPE_TABLE  https://bugcrowd.com/programs/teasers/eQTUitf7a1btxJGEXtAWMtYd
+Agents (Stage) - Login  https://bugcrowd.com/lemonade
+Agents (Stage)- General API - *.public.lmndstaging.com/*  https://bugcrowd.com/lemonade
+Account Management  https://bugcrowd.com/lemonade
+Login  https://bugcrowd.com/lemonade
+Lemonade.com  https://bugcrowd.com/lemonade
+Files Service  https://bugcrowd.com/lemonade
+Life  https://bugcrowd.com/lemonade
+https://lemonade.com/car  https://bugcrowd.com/lemonade
+iOS Mobile  https://bugcrowd.com/lemonade
+Android  https://bugcrowd.com/lemonade
+https://www.lemonade.com/blog/ - Lemonade Blog  https://bugcrowd.com/lemonade
+www.teramind.co  https://bugcrowd.com/teramind-mbb
+Teramind Internal Tooling Website  https://bugcrowd.com/teramind-mbb
+<your-teramind-trial-instance>.teramind.co  https://bugcrowd.com/teramind-mbb
+Teramind Cloud Network Assets  https://bugcrowd.com/teramind-mbb
+democompany.teramind.co  https://bugcrowd.com/teramind-mbb
+Teramind Windows Agent - Hidden  https://bugcrowd.com/teramind-mbb
+Teramind Windows Agent - Revealed  https://bugcrowd.com/teramind-mbb
+Teramind Mac Agent - Hidden  https://bugcrowd.com/teramind-mbb
+Teramind Mac Agent - Revealed  https://bugcrowd.com/teramind-mbb
+NO_IN_SCOPE_TABLE  https://bugcrowd.com/programs/teasers/wenDhQkBP4FrJAAUF5jevaPH
+drive.matlab.com  https://bugcrowd.com/mathworks
+https://integ-matlab.mathworks.com/ [MATLAB ONLINE]  https://bugcrowd.com/mathworks
+mathworks.com  https://bugcrowd.com/mathworks
+https://thingspeak.com/  https://bugcrowd.com/mathworks
+http://api.thingspeak.com/  https://bugcrowd.com/mathworks
+https://blogs.mathworks.com/bugbountytest/  https://bugcrowd.com/mathworks
+NO_IN_SCOPE_TABLE  https://bugcrowd.com/programs/teasers/crimson-wave-1702
+https://bugcrowd.commonlit.org  https://bugcrowd.com/commonlit
+https://kw-bugcrowd-main.bounty.kiteworks.dev/admin  https://bugcrowd.com/kiteworks
+https://kw-bc-mt.bounty.kiteworks.dev/admin  https://bugcrowd.com/kiteworks
+https://kw-bc-mt-1001.bounty.kiteworks.dev/admin  https://bugcrowd.com/kiteworks
+https://kw-bc-mt-1002.bounty.kiteworks.dev/admin  https://bugcrowd.com/kiteworks
+Kiteworks iOS App  https://bugcrowd.com/kiteworks
+Kiteworks Android App (Via HockeyApp)  https://bugcrowd.com/kiteworks
+https://mft-bugcrowd-main.bounty.kiteworks.dev:8080  https://bugcrowd.com/kiteworks
+https://epg-bugcrowd-main.bounty.kiteworks.dev/mailadmin  https://bugcrowd.com/kiteworks
+NO_IN_SCOPE_TABLE  https://bugcrowd.com/programs/teasers/cool-surf-9657
+NO_IN_SCOPE_TABLE  https://bugcrowd.com/programs/teasers/spring-snow-7841
+NO_IN_SCOPE_TABLE  https://bugcrowd.com/programs/teasers/9ivBQDeA2CPxgjupJES2JyLa
+https://api.outreach-staging.com/  https://bugcrowd.com/outreach
+https://staging1a.outreach-staging.com/  https://bugcrowd.com/outreach
+Outreach Chrome Extension and Outlook Plugin  https://bugcrowd.com/outreach
+https://user-docs.outreach-staging.com/  https://bugcrowd.com/outreach
+https://withpersona.com  https://bugcrowd.com/persona-bb
+https://app.withpersona.com  https://bugcrowd.com/persona-bb
+https://files.withpersona.com  https://bugcrowd.com/persona-bb
+https://inquiry.withpersona.com  https://bugcrowd.com/persona-bb
+rql.reverb.com  https://bugcrowd.com/reverb
+https://sandbox.reverb.com  https://bugcrowd.com/reverb
+https://sandbox.rql.reverb.com  https://bugcrowd.com/reverb
+AvalonCommunities - Stage Environment  https://bugcrowd.com/avalonbay-ongoing
+stage-apis.avalonbay.com  https://bugcrowd.com/avalonbay-ongoing
+api2.avalonbay.com  https://bugcrowd.com/avalonbay-ongoing
+api.avalonbay.com  https://bugcrowd.com/avalonbay-ongoing
+avbbuilds.avalonbay.com  https://bugcrowd.com/avalonbay-ongoing
+ess.avalonbay.com  https://bugcrowd.com/avalonbay-ongoing
+https://avalonaccess.com  https://bugcrowd.com/avalonbay-ongoing
+resource.avalonbay.com  https://bugcrowd.com/avalonbay-ongoing
+https://new.avaloncommunities.com  https://bugcrowd.com/avalonbay-ongoing
+https://apis.avalonbay.com  https://bugcrowd.com/avalonbay-ongoing
+https://app-dev.aptrinsic.com/  https://bugcrowd.com/gainsight2
+https://web-sdk.aptrinsic.com/api/aptrinsic.js  https://bugcrowd.com/gainsight2
+SmartNews iOS App  https://bugcrowd.com/smartnews
+SmartNews Android App  https://bugcrowd.com/smartnews
+*.smartnews.com  https://bugcrowd.com/smartnews
+*.smartnews.be  https://bugcrowd.com/smartnews
+*.smartnews-ads.com  https://bugcrowd.com/smartnews
+*.smartnews.co.jp  https://bugcrowd.com/smartnews
+*.smartnews.net  https://bugcrowd.com/smartnews
+https://api.smartnews-ads.com/s/web/v1/*  https://bugcrowd.com/smartnews
+https://api.smartnews-ads.com/s/web/v2/*  https://bugcrowd.com/smartnews
+https://api.smartnews-ads.com/s/app/v1/*  https://bugcrowd.com/smartnews
+https://api.smartnews-ads.com/s/app/v2/*  https://bugcrowd.com/smartnews
+http://smartnews.be/api/*  https://bugcrowd.com/smartnews
+http://smartnews-smri.com/  https://bugcrowd.com/smartnews
+*.smartnews-smri.com  https://bugcrowd.com/smartnews
+*dev*.smartnews.com  https://bugcrowd.com/smartnews
+*dev*.smartnews.be  https://bugcrowd.com/smartnews
+*dev*.smartnews.net  https://bugcrowd.com/smartnews
+*dev*.smartnews.*  https://bugcrowd.com/smartnews
+https://www.dream11.com/  https://bugcrowd.com/dream11
+Dream11 iOS Application (Apple Store India)  https://bugcrowd.com/dream11
+Dream11 Android Application (https://www.dream11.com/download-app)  https://bugcrowd.com/dream11
+https://www.fancode.com/  https://bugcrowd.com/dream11
+Fancode iOS Application (Apple Store India)  https://bugcrowd.com/dream11
+Fancode Android Application (Google Play Store India)  https://bugcrowd.com/dream11
+DreamPay  https://bugcrowd.com/dream11
+List of Unilever domains in scope  https://bugcrowd.com/unilever-mbb
+desk.thetradedesk.com  https://bugcrowd.com/thetradedesk-mbb
+www.thetradedesk.com  https://bugcrowd.com/thetradedesk-mbb
+api.thetradedesk.com  https://bugcrowd.com/thetradedesk-mbb
+dev.thetradedesk.com  https://bugcrowd.com/thetradedesk-mbb
+qa.thetradedesk.com  https://bugcrowd.com/thetradedesk-mbb
+auth.thetradedesk.com  https://bugcrowd.com/thetradedesk-mbb
+atlassian.thetradedesk.com  https://bugcrowd.com/thetradedesk-mbb
+js.adsrvr.org  https://bugcrowd.com/thetradedesk-mbb
+www.adsrvr.org  https://bugcrowd.com/thetradedesk-mbb
+tableau.thetradedesk.com  https://bugcrowd.com/thetradedesk-mbb
+ops-sso.adsrvr.org  https://bugcrowd.com/thetradedesk-mbb
+apisb.thetradedesk.com  https://bugcrowd.com/thetradedesk-mbb
+bb-data.adsrvr.org  https://bugcrowd.com/thetradedesk-mbb
+bb-bid.adsrvr.org  https://bugcrowd.com/thetradedesk-mbb
+Etrieve STS  https://bugcrowd.com/softdocs
+Etrieve Security  https://bugcrowd.com/softdocs
+Etrieve Central  https://bugcrowd.com/softdocs
+Etrieve Content  https://bugcrowd.com/softdocs
+Etrieve Content API  https://bugcrowd.com/softdocs
+taxonomy-dot-wf-pentest.appspot.com  https://bugcrowd.com/workiva
+tomcat-qa.webfilings.com  https://bugcrowd.com/workiva
+validate-test.webfilings.com  https://bugcrowd.com/workiva
+taxonomy-dev.wdesk.org  https://bugcrowd.com/workiva
+w-bolt-stage.appspot.com  https://bugcrowd.com/workiva
+*.olympus.wdesk.com  https://bugcrowd.com/workiva
+Traveloka Android  https://bugcrowd.com/traveloka
+Tera Android  https://bugcrowd.com/traveloka
+Axes Android  https://bugcrowd.com/traveloka
+Trip Android  https://bugcrowd.com/traveloka
+Traveloka iOS  https://bugcrowd.com/traveloka
+Tera iOS  https://bugcrowd.com/traveloka
+Axes iOS  https://bugcrowd.com/traveloka
+Traveloka Main  https://bugcrowd.com/traveloka
+Traveloka Mobile  https://bugcrowd.com/traveloka
+Tera Main  https://bugcrowd.com/traveloka
+Axes Business  https://bugcrowd.com/traveloka
+Axes Internal  https://bugcrowd.com/traveloka
+Corporate CTV  https://bugcrowd.com/traveloka
+Traveloka Partner  https://bugcrowd.com/traveloka
+Merchant Extranet  https://bugcrowd.com/traveloka
+Transport Extranet #1  https://bugcrowd.com/traveloka
+Transport Extranet #2  https://bugcrowd.com/traveloka
+Transport Extranet #3  https://bugcrowd.com/traveloka
+*.traveloka.com  https://bugcrowd.com/traveloka
+*.tvlk-data.com  https://bugcrowd.com/traveloka
+*.travelokapay.com  https://bugcrowd.com/traveloka
+*.tvlk-pay.com  https://bugcrowd.com/traveloka
+NO_IN_SCOPE_TABLE  https://bugcrowd.com/programs/teasers/CuK9RZhPuFhKCvewXbxWFy3M
+NO_IN_SCOPE_TABLE  https://bugcrowd.com/programs/teasers/ihjPujsLBGznTPRDeRvLvYBL
+NO_IN_SCOPE_TABLE  https://bugcrowd.com/programs/teasers/1Z21mCvj7Fkohij4GEv4L2mv
+NO_IN_SCOPE_TABLE  https://bugcrowd.com/programs/teasers/delicate-water-631
+https://api.infobip.com  https://bugcrowd.com/infobip-ngpt
+http://smpp.infobip.com:8887  https://bugcrowd.com/infobip-ngpt
+https://portal.infobip.com/  https://bugcrowd.com/infobip-ngpt
+Digi Accelerated Linux (DAL)  https://bugcrowd.com/digi
+Digi xOS  https://bugcrowd.com/digi
+Digi Accelerated Linux PR (DAL-PR)  https://bugcrowd.com/digi
+Digi Remote Manager  https://bugcrowd.com/digi
+https://api.test.paysafe.com  https://bugcrowd.com/paysafe-ies
+https://api.test.netbanx.com  https://bugcrowd.com/paysafe-ies
+nbx-backoffice - https://login.test.netbanx.com  https://bugcrowd.com/paysafe-ies
+paysafe-psp-hosted - https://hosted.test.paysafe.com  https://bugcrowd.com/paysafe-ies
+https://webservices.test.optimalpayments.com/directdebitWS/DirectDebitService/v1  https://bugcrowd.com/paysafe-ies
+https://member.neteller.com  https://bugcrowd.com/paysafe-digitalwallets
+paysafe-wac-web-login-fe - https://account.skrill.com  https://bugcrowd.com/paysafe-digitalwallets
+paysafe-direct-remittance-standalone-fe - https://transfers.skrill.com  https://bugcrowd.com/paysafe-digitalwallets
+Skrill iOS app  https://bugcrowd.com/paysafe-digitalwallets
+Skrill Android app  https://bugcrowd.com/paysafe-digitalwallets
+Neteller Android app  https://bugcrowd.com/paysafe-digitalwallets
+Neteller iOS app  https://bugcrowd.com/paysafe-digitalwallets
+https://signup.skrill.com/onboarding/#/?rdu=onboarding&rid=onboarding  https://bugcrowd.com/paysafe-digitalwallets
+https://github.com/PayU-EMEA/plugin_prestashop  https://bugcrowd.com/payu
+https://github.com/PayU-EMEA/openpayu_php  https://bugcrowd.com/payu
+*.snd.payu.com  https://bugcrowd.com/payu
+https://github.com/PayU-EMEA/plugin_magento_23  https://bugcrowd.com/payu
+https://github.com/PayU-EMEA/plugin_woocommerce  https://bugcrowd.com/payu
+*.draftkings.com (except excluded sub-domains)  https://bugcrowd.com/draftkings
+DraftKings iOS App  https://bugcrowd.com/draftkings
+DraftKings Android App  https://bugcrowd.com/draftkings
+DK Live Android App  https://bugcrowd.com/draftkings
+DK Live iOS App  https://bugcrowd.com/draftkings
+sportsbook.draftkings.com  https://bugcrowd.com/draftkings
+DraftKings Sportsbook iOS App  https://bugcrowd.com/draftkings
+DraftKings Sportsbook Android App  https://bugcrowd.com/draftkings
+*.dkinternal.com  https://bugcrowd.com/draftkings
+*.draftkingsmedia.com  https://bugcrowd.com/draftkings
+games.draftkingsmedia.com  https://bugcrowd.com/draftkings
+*.dkcorpit.com  https://bugcrowd.com/draftkings
+*.dkexternal.com  https://bugcrowd.com/draftkings
+Misconfigured 3rd party services (see note below for specifics)  https://bugcrowd.com/draftkings
+https://www.draftkings.com/about/*  https://bugcrowd.com/draftkings
+https://www.shopdraftkings.com/  https://bugcrowd.com/draftkings
+marketplace.draftkings.com  https://bugcrowd.com/draftkings
+https://api.material.com  https://bugcrowd.com/volt
+https://admin.volusion.com  https://bugcrowd.com/volt
+v2bugbounty.myvolusion.com  https://bugcrowd.com/volt
+Login page https://www.volusion.com/login  https://bugcrowd.com/volt
+NO_IN_SCOPE_TABLE  https://bugcrowd.com/programs/teasers/T9qKHtyt6cD6KeJnraR9bvvt
+https://submit.gopro.com  https://bugcrowd.com/gopro2
+https://gopro.com/signup  https://bugcrowd.com/gopro2
+https://gopro.com/login  https://bugcrowd.com/gopro2
+https://gopro.com/logout  https://bugcrowd.com/gopro2
+https://gopro.com/forgot-password  https://bugcrowd.com/gopro2
+https://plus.gopro.com/media-library  https://bugcrowd.com/gopro2
+https://gopro.com/account  https://bugcrowd.com/gopro2
+api.gopro.com/*  https://bugcrowd.com/gopro2
+https://gopro.com/*/shop/*  https://bugcrowd.com/gopro2
+https://shop.gopro.com/*  https://bugcrowd.com/gopro2
+HERO9, HERO10, HERO11, HERO12, and GoPro MAX devices  https://bugcrowd.com/gopro2
+GoPro Quik App (iOS)  https://bugcrowd.com/gopro2
+GoPro Quik App (Android)  https://bugcrowd.com/gopro2
+GoPro API (see below for details)  https://bugcrowd.com/gopro2
+*.GOPRO-DSE.COM  https://bugcrowd.com/gopro2
+*.GOPRO.COM  https://bugcrowd.com/gopro2
+*.STAGING.GOPRO.COM  https://bugcrowd.com/gopro2
+WWW.CINEFORM.COM  https://bugcrowd.com/gopro2
+SIP.GOPRO.COM  https://bugcrowd.com/gopro2
+HERONET.GOPRO.COM  https://bugcrowd.com/gopro2
+CRYPT.CORP.GOPRO.COM  https://bugcrowd.com/gopro2
+52.40.73.42  https://bugcrowd.com/gopro2
+52.43.38.13  https://bugcrowd.com/gopro2
+52.40.195.251  https://bugcrowd.com/gopro2
+GoPro Player  https://bugcrowd.com/gopro2
+GoPro Max Exporter  https://bugcrowd.com/gopro2
+atom-aws01d.gopro.com  https://bugcrowd.com/gopro2
+atom-aws03.corp.gopro.com  https://bugcrowd.com/gopro2
+atom-aws01.corp.gopro.com  https://bugcrowd.com/gopro2
+atom-aws01.gopro.com  https://bugcrowd.com/gopro2
+atom-aws04.corp.gopro.com  https://bugcrowd.com/gopro2
+CALENDAR.GOPRO.COM  https://bugcrowd.com/gopro2
+GROUPS.GOPRO.COM  https://bugcrowd.com/gopro2
+MUNKI-ORIGIN-01P.CORP.GOPRO.COM  https://bugcrowd.com/gopro2
+34.208.13.46  https://bugcrowd.com/gopro2
+groups.gopro.com  https://bugcrowd.com/gopro2
+heronet.gopro.com  https://bugcrowd.com/gopro2
+GUEST.GOPRO.COM  https://bugcrowd.com/gopro2
+MANVPNP.CORP.GOPRO.COM  https://bugcrowd.com/gopro2
+PARVPN.CORP.GOPRO.COM  https://bugcrowd.com/gopro2
+MANVPN2.CORP.GOPRO.COM  https://bugcrowd.com/gopro2
+SJCVPNP.CORP.GOPRO.COM  https://bugcrowd.com/gopro2
+SAMVPN.CORP.GOPRO.COM  https://bugcrowd.com/gopro2
+SANVPN.CORP.GOPRO.COM  https://bugcrowd.com/gopro2
+SJCVPN.CORP.GOPRO.COM  https://bugcrowd.com/gopro2
+SJCVPN2.CORP.GOPRO.COM  https://bugcrowd.com/gopro2
+SHZVPN.CORP.GOPRO.COM  https://bugcrowd.com/gopro2
+BUCVPN.CORP.GOPRO.COM  https://bugcrowd.com/gopro2
+MANVPN.CORP.GOPRO.COM  https://bugcrowd.com/gopro2
+WHEXCEPTIONS.GOPRO.COM  https://bugcrowd.com/gopro2
+B2BRETURNS.GOPRO.COM  https://bugcrowd.com/gopro2
+community.gopro.com  https://bugcrowd.com/gopro2
+54.213.3.209  https://bugcrowd.com/gopro2
+54.245.49.62  https://bugcrowd.com/gopro2
+35.161.194.184  https://bugcrowd.com/gopro2
+35.167.141.144  https://bugcrowd.com/gopro2
+52.33.5.37  https://bugcrowd.com/gopro2
+44.241.223.85  https://bugcrowd.com/gopro2
+54.245.23.74  https://bugcrowd.com/gopro2
+35.80.158.67  https://bugcrowd.com/gopro2
+35.80.187.63  https://bugcrowd.com/gopro2
+52.27.170.89  https://bugcrowd.com/gopro2
+35.81.73.81  https://bugcrowd.com/gopro2

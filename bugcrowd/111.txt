@@ -1,0 +1,304 @@
+NO_IN_SCOPE_TABLE
+NO_IN_SCOPE_TABLE
+NO_IN_SCOPE_TABLE
+216.20.176.0/20
+*.northwesternmutual.com
+*.nmfn.com
+*.nml.com
+innovation.northwesternmutual.com
+https://portal.deepwatch.com
+https://deepwatchdev.wpengine.com/
+<researcher ID>-bugcrowd.auth0.com (Authentication API)
+<researcher ID>-1-bugcrowd.auth0.com (Authentication API)
+<researcher ID>-bugcrowd.auth0.com/api/v2 (Management API)
+<researcher ID>-1-bugcrowd.auth0.com/api/v2 (Management API)
+manage.auth0.com (Management Dashboard)
+Auth0 Guardian Android
+Auth0 Guardian IoS
+marketplace.auth0.com (Auth0 Marketplace)
+MFA Integrations
+https://github.com/auth0/auth0.js (Auth0 SDK for Web)
+https://github.com/auth0/lock (Lock for Web)
+https://github.com/auth0/auth0-spa-js (Auth0 Single Page App SDK)
+https://github.com/auth0/express-openid-connect (Express OpenID Connect)
+https://github.com/auth0/auth0-react (Auth0 SDK for React Single Page Applications)
+https://github.com/auth0/node-auth0 (Node.js SDK)
+https://github.com/auth0/Auth0.Net (.NET SDK)
+https://github.com/auth0/nextjs-auth0 (Next.js SDK)
+https://github.com/auth0/auth0-java (Java SDK)
+https://github.com/auth0/react-native-auth0 (react-native SDK)
+https://github.com/auth0/auth0-php (PHP SDK)
+https://dashboard.fga.dev/
+https://api.us1.fga.dev/
+https://customers.us1.fga.dev/
+https://play.fga.dev/
+auth0.com
+samltool.io
+webauthn.me
+openidconnect.net
+jwt.io
+auth0.net
+NO_IN_SCOPE_TABLE
+bc.yieldstreet.net
+betterhelp.com
+betterhelp.com.au
+betterhelp.co.il
+betterhelporg.com
+mytherapist.com
+regain.us
+teencounseling.com
+BetterHelp Mobile Applications (iOS)
+BetterHelp Mobile Applications (Android)
+13.52.170.51
+13.52.52.137
+NO_IN_SCOPE_TABLE
+Agents (Stage) - Login
+Agents (Stage)- General API - *.public.lmndstaging.com/*
+Account Management
+Login
+Lemonade.com
+Files Service
+Life
+https://lemonade.com/car
+iOS Mobile
+Android
+https://www.lemonade.com/blog/ - Lemonade Blog
+NO_IN_SCOPE_TABLE
+www.teramind.co
+Teramind Internal Tooling Website
+<your-teramind-trial-instance>.teramind.co
+Teramind Cloud Network Assets
+democompany.teramind.co
+Teramind Windows Agent - Hidden
+Teramind Windows Agent - Revealed
+Teramind Mac Agent - Hidden
+Teramind Mac Agent - Revealed
+https://kw-bugcrowd-main.bounty.kiteworks.dev/admin
+https://kw-bc-mt.bounty.kiteworks.dev/admin
+https://kw-bc-mt-1001.bounty.kiteworks.dev/admin
+https://kw-bc-mt-1002.bounty.kiteworks.dev/admin
+Kiteworks iOS App
+Kiteworks Android App (Via HockeyApp)
+https://mft-bugcrowd-main.bounty.kiteworks.dev:8080
+https://epg-bugcrowd-main.bounty.kiteworks.dev/mailadmin
+drive.matlab.com
+https://integ-matlab.mathworks.com/ [MATLAB ONLINE]
+mathworks.com
+https://thingspeak.com/
+http://api.thingspeak.com/
+https://blogs.mathworks.com/bugbountytest/
+NO_IN_SCOPE_TABLE
+NO_IN_SCOPE_TABLE
+https://bugcrowd.commonlit.org
+NO_IN_SCOPE_TABLE
+NO_IN_SCOPE_TABLE
+rql.reverb.com
+https://sandbox.reverb.com
+https://sandbox.rql.reverb.com
+https://api.outreach-staging.com/
+https://staging1a.outreach-staging.com/
+Outreach Chrome Extension and Outlook Plugin
+https://user-docs.outreach-staging.com/
+https://withpersona.com
+https://app.withpersona.com
+https://files.withpersona.com
+https://inquiry.withpersona.com
+AvalonCommunities - Stage Environment
+stage-apis.avalonbay.com
+api2.avalonbay.com
+api.avalonbay.com
+avbbuilds.avalonbay.com
+ess.avalonbay.com
+https://avalonaccess.com
+resource.avalonbay.com
+https://new.avaloncommunities.com
+https://apis.avalonbay.com
+https://app-dev.aptrinsic.com/
+https://web-sdk.aptrinsic.com/api/aptrinsic.js
+SmartNews iOS App
+SmartNews Android App
+*.smartnews.com
+*.smartnews.be
+*.smartnews-ads.com
+*.smartnews.co.jp
+*.smartnews.net
+https://api.smartnews-ads.com/s/web/v1/*
+https://api.smartnews-ads.com/s/web/v2/*
+https://api.smartnews-ads.com/s/app/v1/*
+https://api.smartnews-ads.com/s/app/v2/*
+http://smartnews.be/api/*
+http://smartnews-smri.com/
+*.smartnews-smri.com
+*dev*.smartnews.com
+*dev*.smartnews.be
+*dev*.smartnews.net
+*dev*.smartnews.*
+https://www.dream11.com/
+Dream11 iOS Application (Apple Store India)
+Dream11 Android Application (https://www.dream11.com/download-app)
+https://www.fancode.com/
+Fancode iOS Application (Apple Store India)
+Fancode Android Application (Google Play Store India)
+DreamPay
+desk.thetradedesk.com
+www.thetradedesk.com
+api.thetradedesk.com
+dev.thetradedesk.com
+qa.thetradedesk.com
+auth.thetradedesk.com
+atlassian.thetradedesk.com
+js.adsrvr.org
+www.adsrvr.org
+tableau.thetradedesk.com
+ops-sso.adsrvr.org
+apisb.thetradedesk.com
+bb-data.adsrvr.org
+bb-bid.adsrvr.org
+List of Unilever domains in scope
+Etrieve STS
+Etrieve Security
+Etrieve Central
+Etrieve Content
+Etrieve Content API
+taxonomy-dot-wf-pentest.appspot.com
+tomcat-qa.webfilings.com
+validate-test.webfilings.com
+taxonomy-dev.wdesk.org
+w-bolt-stage.appspot.com
+*.olympus.wdesk.com
+NO_IN_SCOPE_TABLE
+NO_IN_SCOPE_TABLE
+https://api.infobip.com
+http://smpp.infobip.com:8887
+https://portal.infobip.com/
+NO_IN_SCOPE_TABLE
+Traveloka Android
+Tera Android
+Axes Android
+Trip Android
+Traveloka iOS
+Tera iOS
+Axes iOS
+Traveloka Main
+Traveloka Mobile
+Tera Main
+Axes Business
+Axes Internal
+Corporate CTV
+Traveloka Partner
+Merchant Extranet
+Transport Extranet #1
+Transport Extranet #2
+Transport Extranet #3
+*.traveloka.com
+*.tvlk-data.com
+*.travelokapay.com
+*.tvlk-pay.com
+NO_IN_SCOPE_TABLE
+https://api.test.paysafe.com
+https://api.test.netbanx.com
+nbx-backoffice - https://login.test.netbanx.com
+paysafe-psp-hosted - https://hosted.test.paysafe.com
+https://webservices.test.optimalpayments.com/directdebitWS/DirectDebitService/v1
+Digi Accelerated Linux (DAL)
+Digi xOS
+Digi Accelerated Linux PR (DAL-PR)
+Digi Remote Manager
+https://member.neteller.com
+paysafe-wac-web-login-fe - https://account.skrill.com
+paysafe-direct-remittance-standalone-fe - https://transfers.skrill.com
+Skrill iOS app
+Skrill Android app
+Neteller Android app
+Neteller iOS app
+https://signup.skrill.com/onboarding/#/?rdu=onboarding&rid=onboarding
+https://github.com/PayU-EMEA/plugin_prestashop
+https://github.com/PayU-EMEA/openpayu_php
+*.snd.payu.com
+https://github.com/PayU-EMEA/plugin_magento_23
+https://github.com/PayU-EMEA/plugin_woocommerce
+*.draftkings.com (except excluded sub-domains)
+DraftKings iOS App
+DraftKings Android App
+DK Live Android App
+DK Live iOS App
+sportsbook.draftkings.com
+DraftKings Sportsbook iOS App
+DraftKings Sportsbook Android App
+*.dkinternal.com
+*.draftkingsmedia.com
+games.draftkingsmedia.com
+*.dkcorpit.com
+*.dkexternal.com
+Misconfigured 3rd party services (see note below for specifics)
+https://www.draftkings.com/about/*
+https://www.shopdraftkings.com/
+marketplace.draftkings.com
+https://api.material.com
+https://admin.volusion.com
+v2bugbounty.myvolusion.com
+Login page https://www.volusion.com/login
+NO_IN_SCOPE_TABLE
+https://submit.gopro.com
+https://gopro.com/signup
+https://gopro.com/login
+https://gopro.com/logout
+https://gopro.com/forgot-password
+https://plus.gopro.com/media-library
+https://gopro.com/account
+api.gopro.com/*
+https://gopro.com/*/shop/*
+https://shop.gopro.com/*
+HERO9, HERO10, HERO11, HERO12, and GoPro MAX devices
+GoPro Quik App (iOS)
+GoPro Quik App (Android)
+GoPro API (see below for details)
+*.GOPRO-DSE.COM
+*.GOPRO.COM
+*.STAGING.GOPRO.COM
+WWW.CINEFORM.COM
+SIP.GOPRO.COM
+HERONET.GOPRO.COM
+CRYPT.CORP.GOPRO.COM
+52.40.73.42
+52.43.38.13
+52.40.195.251
+GoPro Player
+GoPro Max Exporter
+atom-aws01d.gopro.com
+atom-aws03.corp.gopro.com
+atom-aws01.corp.gopro.com
+atom-aws01.gopro.com
+atom-aws04.corp.gopro.com
+CALENDAR.GOPRO.COM
+GROUPS.GOPRO.COM
+MUNKI-ORIGIN-01P.CORP.GOPRO.COM
+34.208.13.46
+groups.gopro.com
+heronet.gopro.com
+GUEST.GOPRO.COM
+MANVPNP.CORP.GOPRO.COM
+PARVPN.CORP.GOPRO.COM
+MANVPN2.CORP.GOPRO.COM
+SJCVPNP.CORP.GOPRO.COM
+SAMVPN.CORP.GOPRO.COM
+SANVPN.CORP.GOPRO.COM
+SJCVPN.CORP.GOPRO.COM
+SJCVPN2.CORP.GOPRO.COM
+SHZVPN.CORP.GOPRO.COM
+BUCVPN.CORP.GOPRO.COM
+MANVPN.CORP.GOPRO.COM
+WHEXCEPTIONS.GOPRO.COM
+B2BRETURNS.GOPRO.COM
+community.gopro.com
+54.213.3.209
+54.245.49.62
+35.161.194.184
+35.167.141.144
+52.33.5.37
+44.241.223.85
+54.245.23.74
+35.80.158.67
+35.80.187.63
+52.27.170.89
+35.81.73.81
